@@ -14,7 +14,7 @@
     "db:refresh": "bun run db:fresh && bun run db:seed"
   },
   "dependencies": {
-    "@hookform/resolvers": "^5.2.2",
+    "@hookform/resolvers": "5.0.1",
     "@payloadcms/db-mongodb": "^3.56.0",
     "@payloadcms/next": "^3.56.0",
     "@payloadcms/payload-cloud": "^3.56.0",
@@ -64,7 +64,7 @@
     "react": "^19.0.0",
     "react-day-picker": "^9.11.0",
     "react-dom": "^19.0.0",
-    "react-hook-form": "^7.63.0",
+    "react-hook-form": "7.55.0",
     "react-resizable-panels": "^3.0.6",
     "recharts": "2.15.4",
     "server-only": "0.0.1",

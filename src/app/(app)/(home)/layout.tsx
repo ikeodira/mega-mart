@@ -3,7 +3,6 @@ import { dehydrate, HydrationBoundary } from '@tanstack/react-query';
 import { Navbar } from './navbar'
 import { Footer } from './footer'
 import { SearchFilters, SearchFiltersSkeleton } from './search-filters'
-import { CustomCategory } from './types'
 import { getQueryClient, trpc } from '@/trpc/server'
 import { Suspense } from 'react';
 
